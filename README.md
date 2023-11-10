@@ -16,5 +16,7 @@ Other random stuff
 
 ## How to Contribute
 
+BLA BLA BLA
+
 ### Copyright
 None of your business
