@@ -19,4 +19,4 @@ Other random stuff
 BLA BLA BLA
 
 ### Copyright
-None of your business
+None of your business, All rights reserved
