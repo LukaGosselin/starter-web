@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 Other random stuff
 
 ## How to Contribute
+
+### Copyright
+None of your business
